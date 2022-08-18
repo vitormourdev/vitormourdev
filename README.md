@@ -15,7 +15,7 @@ Estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitormourdev/vitormourdev/blob/output/github-contribution-grid-snake.svg)
 
 
 

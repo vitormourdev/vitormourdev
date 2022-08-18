@@ -4,6 +4,13 @@ Apaixonado por tecnologia desde que ganhei o meu primeiro computador.
 
 Busco me tornar um grande dev, um dia!
 
+Contatos:
+
+<div>
+<a href="https://instagram.com/vitormour_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitor-moura-a84365249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 Estou aprendendo:
 

@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Oi, eu sou o Vitor! ✌ <br>Apaixonado por tecnologia desde que ganhei <br>meu primeiro computador. <br>Busco me tornar um grande dev, um dia!
 
 
